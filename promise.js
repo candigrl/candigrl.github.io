@@ -22,3 +22,6 @@ function waitForMath(){
 waitForMath().then(res => {
     console.log(res);
 });
+
+
+git add .Promise
